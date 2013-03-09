@@ -2,24 +2,26 @@ module.exports = function(grunt) {
 
 	grunt.initConfig({
 		pkg: grunt.file.readJSON('package.json'),
-		less: {
-			production: {
+		recess: {
+    		production: {
 				options: {
+					compile: true,
 					compress: true
 				},
 				files: {
 					'css/styles.min.css': 'less/*.less'
 				}
-			},
-			development: {
+        	},
+        	development: {
 				options: {
+					compile: true,
 					compress: false
 				},
 				files: {
 					'css/styles.css': 'less/*.less'
 				}
 			}
-		},
+    	},
 		watch: {
 			less: {
 				files: ['less/*.less'],
@@ -28,8 +30,8 @@ module.exports = function(grunt) {
 		}
 	});
 
-	grunt.loadNpmTasks('grunt-contrib-less');
 	grunt.loadNpmTasks('grunt-contrib-watch');
+	grunt.loadNpmTasks('grunt-recess');
 
-	grunt.registerTask('default', ['less']);
+	grunt.registerTask('default', ['recess']);
 };
