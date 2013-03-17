@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">	
-		<title>Immaterial Labour Isn't Working</title>
-		<meta name="description" content="Immaterial Labour Isn't Working is an event considering work in the age of the internet, starting April 2013">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"
-		<meta name="author" content="Auto Italia South East">
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-		<link href="css/font-awesome.min.css" rel="stylesheet">
-		<link href="css/styles.min.css" rel="stylesheet">
-		<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
-		<!--[if lt IE 9]>
-			<script src="js/html5shiv.js"></script>
-		<![endif]-->
-	</head>
-	<body>
-		<div class="container-narrow">
-
-			<div class="masthead">
-				<ul class="nav nav-pills pull-right">
-					<li class="active"><a href="/">Home</a></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="/contact">Contact</a></li>
-				</ul>
-				<h3 class="muted">Auto Italia South East</h3>
-			</div>
-
-			<hr>
-
+<?php get_header(); ?>
 			<div class="jumbotron">
 				<i class="icon-cloud-download"></i>
 				<h1>Immaterial Labour Isn't Working</h1>
@@ -61,21 +32,7 @@
 		        </div>
       		</div>
 
-			<div class="row-fluid footer">
-				<div class="pull-left span6">
-					<p>An <a href="http://autoitaliasoutheast.org">Auto Italia South East</a> joint</p>
-				</div>
-				<div class="pull-right span6 text-right">
-					<div class="icon-bar">
-						<a href="http://twitter.com/iliw13/" class="icon-twitter"></a>
-						<a href="#" class="icon-facebook"></a>
-						<a href="http://github.com/iliw13/" class="icon-github"></a>
-					</div>
-					<p><a href="/contact">Contact</a> - <a href="/api/">API</a></p>
-				</p>
-			</div>
-		</div>
-		<div id="signup" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="signup" aria-hidden="true">
+      		<div id="signup" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="signup" aria-hidden="true">
   			<div class="modal-header">
     			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     			<h3 id="signupLabel">Let me know when its ready</h3>
@@ -102,8 +59,4 @@
     			<button class="btn btn-primary btn-success">Sign up now</button>
   			</div>
 		</div>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-		<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	</body>
-</html>
-
+<?php get_footer(); ?>
