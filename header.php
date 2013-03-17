@@ -23,7 +23,7 @@
 					<li><a href="/about">About</a></li>
 					<li><a href="/contact">Contact</a></li>
 				</ul>
-				<h3 class="muted">Auto Italia South East</h3>
+				<h3 class="muted"><a href="http://iliw13.autoitaliasoutheast.org">Auto Italia South East</a></h3>
 			</div>
 
 			<hr>
