@@ -19,9 +19,19 @@
 
 			<div class="masthead">
 				<ul class="nav nav-pills pull-right">
-					<li class="active"><a href="/">Home</a></li>
-					<li><a href="/about">About</a></li>
-					<li><a href="/contact">Contact</a></li>
+					<?php 
+					global $post;
+					$slug = get_post( $post )->post_name;
+					?>
+					<li <?php if ( $slug === 'front' ) : ?>class="active"<?php endif; ?>>
+						<a href="/" <?php if ( strcmp( $slug, 'front' ) == 0 )  : ?>class="active"<?php endif; ?>>Home</a>
+					</li>
+					<li <?php if ( $slug === 'about' ) : ?>class="active"<?php endif; ?>>
+						<a href="/about" >About</a>
+					</li>
+					<li <?php if ( $slug === 'contact' ) : ?>class="active"<?php endif; ?>>
+						<a href="/contact" >Contact</a>
+					</li>
 				</ul>
 				<h3 class="muted"><a href="http://iliw13.autoitaliasoutheast.org">Auto Italia South East</a></h3>
 			</div>
