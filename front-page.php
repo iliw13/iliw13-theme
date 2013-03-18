@@ -2,6 +2,7 @@
 			<div class="jumbotron">
 				<i class="icon-cloud-download"></i>
 				<h1>Immaterial Labour Isn't Working</h1>
+				<h2>20th April – 12th May 2013</h2>
 				<p class="lead">Digital culture, digital work, digital insurrection</p>
 				<a class="btn btn-large btn-success animated pulse" data-toggle="modal" data-target="#signup">Let me know when its ready</a>
 				<a href="/about/" class="btn btn-large btn-warning">Find out more</a>
