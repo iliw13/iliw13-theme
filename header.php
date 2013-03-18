@@ -33,7 +33,7 @@
 						<a href="/contact" >Contact</a>
 					</li>
 				</ul>
-				<h3 class="muted"><a href="http://iliw13.autoitaliasoutheast.org">Auto Italia South East</a></h3>
+				<h3 class="muted"><a href="http://iliw13.autoitaliasoutheast.org">Immaterial Labour Isn't Working</a></h3>
 			</div>
 
 			<hr>
