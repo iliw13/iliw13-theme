@@ -4,4 +4,4 @@ The WordPress theme for the site of [Immaterial Labour Isn't Working](http://ili
 
 ## Uses
 
-Twitter Bootstrap, Growl, Immaterial Labour.
+Twitter Bootstrap, Font Awesome, HTML5 Shiv, Grunt, LESS, NPM, WordPress and, of course, immaterial labour.
