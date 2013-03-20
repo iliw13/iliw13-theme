@@ -2,8 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">	
-		<title>Immaterial Labour Isn't Working</title>
-		<meta name="description" content="Immaterial Labour Isn't Working is an event considering work in the age of the internet, starting April 2013">
+		<title><?php wp_title( '-', true, 'right' ); ?></title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"
 		<meta name="author" content="Auto Italia South East">
 		<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -13,6 +12,7 @@
 		<!--[if lt IE 9]>
 			<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
 		<![endif]-->
+		<?php wp_head(); ?>
 	</head>
 	<body>
 		<div class="container-narrow">
