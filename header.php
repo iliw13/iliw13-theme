@@ -6,10 +6,10 @@
 		<meta name="description" content="Immaterial Labour Isn't Working is an event considering work in the age of the internet, starting April 2013">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"
 		<meta name="author" content="Auto Italia South East">
-		<link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css" rel="stylesheet">
-		<link href="<?php echo get_template_directory_uri(); ?>/css/font-awesome.min.css" rel="stylesheet">
+		<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/css/bootstrap.min.css" rel="stylesheet">
+		<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.0.2/css/font-awesome.min.css" rel="stylesheet">
 		<link href="<?php echo get_template_directory_uri(); ?>/css/styles.min.css" rel="stylesheet">
-		<link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap-responsive.min.css" rel="stylesheet">
+		<link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/css/bootstrap-responsive.min.css" rel="stylesheet">
 		<!--[if lt IE 9]>
 			<script src="<?php echo get_template_directory_uri(); ?>js/html5shiv.js"></script>
 		<![endif]-->
