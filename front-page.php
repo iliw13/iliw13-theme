@@ -39,25 +39,25 @@
     			<h3 id="signupLabel">Let me know when its ready</h3>
   			</div>
 			<div class="modal-body">
-				<form class="form-horizontal">
+				<form class="form-horizontal" action="http://autoitaliasoutheast.us5.list-manage2.com/subscribe/post?u=476c64e8741016c1d76fb970f&amp;id=435f22fdb3" method="post">
 					<div class="control-group">
-						<label for="name" class="control-label">Your name</label>
+						<label for="NAME" class="control-label">Your name</label>
 						<div class="controls">
-							<input name="name" type="text" placeholder="Antonio..." class="input-large">
+							<input name="NAME" type="text" placeholder="Antonio..." class="input-large">
 						</div>
 					</div>
 					<div class="control-group">
-						<label for="email" class="control-label">
+						<label for="EMAIL" class="control-label">
 							E-mail address
 						</label>
 						<div class="controls">
-							<input name="email" type="email" placeholder="me@immateriallabour.org..." class="input-large">
+							<input name="EMAIL" type="email" placeholder="me@immateriallabour.org..." class="input-large" required>
 						</div>
 					</div>
-				</form>
 			</div>
 			<div class="modal-footer">
-    			<button class="btn btn-primary btn-success">Sign up now</button>
+    			<input type="submit" name="subscribe" class="btn btn-primary btn-success" value="Sign up now">
   			</div>
+  			</form>
 		</div>
 <?php get_footer(); ?>
