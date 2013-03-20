@@ -12,24 +12,24 @@
 			<div class="row-fluid marketing">
 		        <div class="span6">
 		          <h4><i class="icon-off"></i>What?</h4>
-		          <p></i><strong>Immaterial Labour Isn't Working</strong> is a series of events considering work in the internet age, the place of art within this and the possibilities open and closed by this situation.</p>
+		          <p><strong>Immaterial Labour Isn't Working</strong> <em>#ILIW13</em> is a series of talks, texts and online contributions from artists, activists, technologists and writers examining how digital technology is changing our political and productive selves.</p>
 
 		          <h4><i class="icon-group"></i>Work</h4>
-		          <p>What does it mean to work now? How have the boundaries between work and play, leisure and activity, social life and work blurred in the modern world? How has this occured while employment itself is made ever more precarious?</p>
+		          <p>Today, we live, work and play online, and yet we are often still stuck in ways of thinking that belong to an offline world. What does it mean to be at work now as the boundaries between production and consumption transform into a pixelated blur. What does culture look like when the tools to make and broadcast exist on every laptop?</p>
 
 		          <h4><i class="icon-picture"></i>Art</h4>
-		          <p>What is the status of art in the digital economy? Is the category of art even meaningful in the Tumblr age? What does it mean to be an art worker now, when everyone is a critic and the category is so widely dispersed?</p>
+		          <p>Is there a new aesthetic appearing now and if so what is it? The way we produce, disseminate and consume culture is now almost totally mediated by the online space. An increasingly fluid relation between “creative industries” and the working practices being imposed upon other workers has added to this culture of uncertainty. What does it mean to be an art worker now?</p>
 		        </div>
 
 		        <div class="span6">
 		          <h4><i class="icon-plus-sign-alt"></i>Health</h4>
-		          <p>How is working and socialising on the internet effecting our bodies, our mental health and our ability to inteact with our peers? How is the internet shaping our thoughts, our emotions? With no simple answers in sight.</p>
+		          <p>How is working and socialising online affecting our mental health? Are we working too much? Is the boundary between work and play too porous? How is the internet shaping our thoughts, our bodies and our emotions?</p>
 
 		          <h4><i class="icon-thumbs-up"></i>Politics</h4>
-		          <p>What do the politics of this new condition of work look like? What structures are appropriate to organise in contemporary workplaces? <strong>Immaterial Labour Isn't Working</strong> brings together activists, artists and thinkers to actively consider this question.</p>
+		          <p>The aesthetic and technical structures of online space are becoming the prism through which we visualise and conceptualise our everyday lives, yet technological developments in the workplace are being structured for the benefit of employers, not workers. How can political organising happen when we never meet our colleagues?</p>
 
-		          <h4><i class="icon-heart-empty"></i>Trust</h4>
-		          <p><strong>Immaterial Labour Isn't Working</strong> is from the same people as last year's <strong>We Have Our Own Concept Of Time And Motion</strong> - linked to the Arts Council Sponsored <strong>Auto Italia South East</strong>. A purpose build event from brands you can trust.</p>
+		          <h4><i class="icon-heart-empty"></i>Who?</h4>
+		          <p><strong>Immaterial Labour Isn't Working</strong> is brought to you by Auto Italia South East in collaboration with Huw Lemmey. Featuring contributions from: Alex Andrews, Hannah Black, James Bridle, Mark Fisher, Alex Hern, Dougald Hine, Luddites (Dave King), Metahaven, Metropolitan Factory, Novara Media, Michael Oswell, Jay Springett, David Rudnick, Kieran Startup, Alex Vasudevan, Ben Vickers, Josephine Wikström and Will Wiles with more TBA.</p>
 		        </div>
       		</div>
 
