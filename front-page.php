@@ -29,7 +29,7 @@
 		          <p>The aesthetic and technical structures of online space are becoming the prism through which we visualise and conceptualise our everyday lives, yet technological developments in the workplace are being structured for the benefit of employers, not workers. How can political organising happen when we never meet our colleagues?</p>
 
 		          <h4><i class="icon-heart-empty"></i>Who?</h4>
-		          <p><strong>Immaterial Labour Isn't Working</strong> is brought to you by <a href="http://autoitaliasoutheast.org/about/" title="About Auto Italia South East">Auto Italia South East</a> in collaboration with Huw Lemmey. Featuring contributions from: Alex Andrews, Hannah Black, James Bridle, Mark Fisher, Alex Hern, Dougald Hine, Luddites (Dave King), Metahaven, Metropolitan Factory, Novara Media, Michael Oswell, Jay Springett, David Rudnick, Kieran Startup, Alex Vasudevan, Ben Vickers, Josephine Wikström and Will Wiles with more TBA.</p>
+		          <p><strong>Immaterial Labour Isn't Working</strong> is brought to you by <a href="http://autoitaliasoutheast.org/about/" title="About Auto Italia South East">Auto Italia South East</a> in collaboration with Huw Lemmey. Featuring contributions from: Alex Andrews, Hannah Black, James Bridle, Mark Fisher, Alex Hern, Dougald Hine, Luddites (Dave King), Metahaven, Metropolitan Factory, Novara Media, Michael Oswell, Jay Springett, David Rudnick, Kieran Startup, Alex Vasudevan, Ben Vickers, Josefine Wikström and Will Wiles with more TBA.</p>
 		        </div>
       		</div>
 
