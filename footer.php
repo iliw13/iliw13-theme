@@ -5,8 +5,6 @@
 				<div class="pull-right span6 text-right">
 					<div class="icon-bar">
 						<a href="http://twitter.com/iliw13" class="icon-twitter"></a>
-						<a href="#" class="icon-facebook"></a>
-						<a href="http://github.com/iliw13/" class="icon-github"></a>
 					</div>
 					<p><a href="/contact">Contact</a> - <a href="/api/">API</a></p>
 				</p>
