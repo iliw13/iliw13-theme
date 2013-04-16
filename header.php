@@ -26,6 +26,9 @@
 					<li <?php if ( $slug === 'front' ) : ?>class="active"<?php endif; ?>>
 						<a href="/" <?php if ( strcmp( $slug, 'front' ) == 0 )  : ?>class="active"<?php endif; ?>>Home</a>
 					</li>
+					<li <?php if ( $slug === 'schedule' ) : ?>class="active"<?php endif; ?>>
+						<a href="/schedule" >Schedule</a>
+					</li>
 					<li <?php if ( $slug === 'about' ) : ?>class="active"<?php endif; ?>>
 						<a href="/about" >About</a>
 					</li>
