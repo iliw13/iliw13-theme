@@ -7,10 +7,14 @@
 				</div>
 </div>
 <div class="row-fluid">
-				<div class="span10"><?php the_content(); ?></div>
-				<?php if ( comments_open() && post_type_supports( get_post_type(), 'comments' )) : ?>
-				<div class="span10"><?php comments_template(); ?></div>
-				<?php endif; ?>
+				<div class="span10">
+					<?php the_content(); ?>
+					<?php if ( comments_open() && post_type_supports( get_post_type(), 'comments' )) : ?>
+					<h3>Discuss</h3>
+					<p>We really welcome your discussion of this material. Just comment below.</p>
+					<?php comments_template(); ?>
+					<?php endif; ?>
+				</div>
 			<?php endwhile; ?>
 		<?php else : ?>
 			No results!
