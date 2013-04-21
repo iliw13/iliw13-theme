@@ -8,6 +8,9 @@
 </div>
 <div class="row-fluid">
 				<div class="span10"><?php the_content(); ?></div>
+				<?php if ( comments_open() && post_type_supports( get_post_type(), 'comments' )) : ?>
+				<div class="span10"><?php comments_template(); ?></div>
+				<?php endif; ?>
 			<?php endwhile; ?>
 		<?php else : ?>
 			No results!
