@@ -7,8 +7,12 @@
 				</div>
 </div>
 <div class="row-fluid">
-				<div class="span10"><?php the_content(); ?></div>
-				<div class="span10"><?php comments_template(); ?></div>
+				<div class="span10">
+					<?php the_content(); ?>
+					<h3>Discuss</h3>
+					<p>We really welcome your discussion of this material. Just comment below.</p>
+					<?php comments_template(); ?>
+				</div>
 			<?php endwhile; ?>
 		<?php else : ?>
 			No results!
